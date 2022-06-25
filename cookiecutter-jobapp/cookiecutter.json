@@ -1,0 +1,6 @@
+{
+    "company_name": "",
+    "job_title": "Data Scientist",
+    "project_slug": "{{cookiecutter.company_name.lower().replace(' ',  '_').replace('-', '_')}}",
+    "hiring_manager": "Hiring Manager"
+}
